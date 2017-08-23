@@ -1,4 +1,4 @@
-This assessment consists in writing a simple application that prints out the details of a receipt 
+This problem consists in writing a simple application that prints out the details of a receipt 
 containing items purchased by a customer. The receipt should list the number of items, the name, the final price (including taxes) 
 of each of the item purchased, plus two extra lines showing the total amount of the receipt and the total amount of taxes.
 
